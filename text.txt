@@ -3,3 +3,7 @@ this is the text file on the remote repository
 
 
 this is the edited content done by ayush singh
+
+
+
+new work done on text.txt file on main by the user.
